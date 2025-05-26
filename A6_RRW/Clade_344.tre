@@ -1,0 +1,4 @@
+#NEXUS
+begin trees;
+	tree tree_1 = [&R] (poland_Masovian_5520-20_PLlocal_2020-03-19:4.073524069,((poland_Masovian_18845-18_PLmigrant_2018-12-13:2.372314521,poland_WarmianMasurian_11015-18_PLlocal_2018-07-12:1.950396712):0.0232562372,((poland_Podlachian_377-18BI_PLlocal_2018-03-29:0.7312654795,(poland_WarmianMasurian_17248-18_PLlocal_2018-07-12:0.7356767123,poland_LowerSilesian_173-20WR_PLlocal_2020-02-03:2.299813249):0.28326):0.93146,((poland_Pomeranian_309-22GD_PLlocal_2022-07-05:0.4461986301,poland_WestPomeranian_1852-1x.PL_PLlocal_2023-04-19:1.235239726):4.77051,(poland_Masovian_3719.22_PLlocal_2022-03-21:2.780227671,((poland_GreaterPoland_101-22PN_PLlocal_2022-01-20:0.01474979783,poland_GreaterPoland_285-22PN_PLlocal_2022-06-14:0.4120100718):1.278194863,(poland_Masovian_27649-21_PLlocal_2021-12-07:1.152026164,poland_Masovian_27645-21_PLlocal_2021-12-07:1.152026164):0.02037055129):1.322899449):2.14607):0.71451):0.0232562372):0.4127837628):29.8409;
+end;

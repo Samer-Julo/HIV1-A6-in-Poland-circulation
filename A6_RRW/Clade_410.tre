@@ -1,0 +1,4 @@
+#NEXUS
+begin trees;
+	tree tree_1 = [&R] (poland_Masovian_9883-12_PLlocal_2012-08-09:0.03390632283,(poland_Masovian_11511-15_PLlocal_2015-08-27:1.552545717,poland_Masovian_2138-14_PLlocal_2014-02-14:0.02103886796):1.529590263):26.27122813;
+end;
