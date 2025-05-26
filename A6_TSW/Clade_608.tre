@@ -1,0 +1,4 @@
+#NEXUS
+begin trees;
+	tree tree_1 = [&R] ((poland_WestPomeranian_1733-1_PLmigrant_2022-09-13:0.2064223911,poland_WestPomeranian_1733-1x.UA_PLmigrant_2022-06-30:0.0009429390395):18.27681706,(poland_Masovian_15206.22_PLmigrant_2022-10-05:9.362063425,((poland_WestPomeranian_1561-1_PLlocal_2021-09-14:4.300219178,poland_WestPomeranian_1856-1x.PL_PLlocal_2023-04-25:5.911178082):2.17606,(poland_Masovian_14467.23_PLmigrant_2023-09-14:7.810469178,(poland_LowerSilesian_436-22WR_PLmigrant_2022-10-06:0.2763134555,poland_LowerSilesian_436-22WRx.UA_PLmigrant_2022-06-30:0.007820304799):6.594429695):0.66581):1.82825):9.18145):17.9167;
+end;
